@@ -62,4 +62,4 @@ osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 
 * Start ServiceMix.
 
-* After two minutes check the ServiceMix log file ```apache-servicemix-5.1.1/data/log/servicemix.log``` and make sure that YSA and Allärs have been dowloaded from Finto.
+* After two minutes (or the time that you defined in ```deploy/maintenance-cron.xml```) check the ServiceMix log file ```apache-servicemix-5.1.1/data/log/servicemix.log``` and make sure that YSA and Allärs have been dowloaded from Finto. If the vocabularies have been downloaded succesfully, ```apache-servicemix-5.1.1/datastore``` folder should contain four files: ```ALLARS.datastore.ttl```, ```ALLARS.index.data```, ```YSA.datastore.ttl```, ```YSA.index.data```.
