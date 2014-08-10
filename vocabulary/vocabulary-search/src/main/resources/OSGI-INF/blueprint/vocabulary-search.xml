@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+	xsi:schemaLocation="http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+
+	<bean id="vocabularyYSA" class="com.pkrete.vocabulary.model.Vocabulary"
+		factory-method="valueOf">
+		<argument value="YSA" />
+	</bean>
+
+	<bean id="vocabularyALLARS" class="com.pkrete.vocabulary.model.Vocabulary"
+		factory-method="valueOf">
+		<argument value="ALLARS" />
+	</bean>
+
+	<bean id="vocabularySearchImplYsa" activation="eager"
+		class="com.pkrete.vocabulary.search.CacheIndexSearch">
+		<argument value="datastore/" />
+		<argument ref="vocabularyYSA" />
+	</bean>
+
+	<bean id="vocabularySearchImplAllars" activation="eager"
+		class="com.pkrete.vocabulary.search.CacheIndexSearch">
+		<argument value="datastore/" />
+		<argument ref="vocabularyALLARS" />
+	</bean>
+
+	<service id="vocabularySearchServiceYsa" ref="vocabularySearchImplYsa"
+		interface="com.pkrete.vocabulary.api.VocabularyTermSearch" />
+
+	<service id="vocabularySearchServiceAllars" ref="vocabularySearchImplAllars"
+		interface="com.pkrete.vocabulary.api.VocabularyTermSearch" />
+
+	<bean id="vocabularySearchServiceImpl" activation="eager"
+		class="com.pkrete.vocabulary.search.VocabularySearchServiceImpl">
+		<property name="vocabularyTermSearchers">
+			<map>
+				<entry key-ref="vocabularyYSA" value-ref="vocabularySearchImplYsa" />
+				<entry key-ref="vocabularyALLARS" value-ref="vocabularySearchImplAllars" />
+			</map>
+		</property>
+	</bean>
+
+	<service id="vocabularySearchService" ref="vocabularySearchServiceImpl"
+		interface="com.pkrete.vocabulary.api.VocabularySearchService" />
+</blueprint>
