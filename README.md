@@ -77,3 +77,5 @@ Multiple MarcXML records stored in [records.xml](records/records.xml) file.
 ```
 curl -X POST -d @records.xml "http://localhost:8181/cxf/vocabulary/records" --header "Content-Type:application/xml"
 ```
+
+Get Curl for Windows from [here](http://www.paehl.com/open_source/?CURL_7.37.0).
