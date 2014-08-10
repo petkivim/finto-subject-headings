@@ -66,13 +66,13 @@ karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 
 ### Using the service
 
-Single MarcXML record stored in record.xml file.
+Single MarcXML record stored in [record.xml](records/record.xml) file.
 
 ```
 curl -X POST -d @record.xml "http://localhost:8181/cxf/vocabulary/record" --header "Content-Type:application/xml"
 ```
 
-Multiple MarcXML records stored in records.xml file.
+Multiple MarcXML records stored in [records.xml](records/records.xml) file.
 
 ```
 curl -X POST -d @records.xml "http://localhost:8181/cxf/vocabulary/records" --header "Content-Type:application/xml"
