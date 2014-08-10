@@ -35,17 +35,17 @@ servicemix
 * Install marc-record and vocabulary OSGi bundles in the following order by using Karaf console.
 
 ```
-osgi:install -s mvn:com.pkrete/marc-record-model/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/marc-record-api/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-model/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-api/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/marc-record-handler/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/marc-record-endpoint/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-util/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-datastore/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-index/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-maintenance/0.0.1-SNAPSHOT
-osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/marc-record-model/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/marc-record-api/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-model/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-api/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/marc-record-handler/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/marc-record-endpoint/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-util/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-datastore/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-index/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-maintenance/0.0.1-SNAPSHOT
+karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 ```
 
 * The list of available web services can now be accessed at [http://localhost:8181/cxf](http://localhost:8181/cxf). The WADL file of the vocabulary service can be accessed at [http://localhost:8181/cxf/vocabulary?_wadl](http://localhost:8181/cxf/vocabulary?_wadl). 
