@@ -50,7 +50,7 @@ karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 
 * The list of available web services can now be accessed at [http://localhost:8181/cxf](http://localhost:8181/cxf). The WADL file of the vocabulary service can be accessed at [http://localhost:8181/cxf/vocabulary?_wadl](http://localhost:8181/cxf/vocabulary?_wadl). 
 
-* Stop ServiceMix. Hit '<ctrl-d>' or 'osgi:shutdown' to shutdown ServiceMix.
+* Stop ServiceMix. Hit 'ctrl-d' or 'osgi:shutdown' to shutdown ServiceMix.
 
 * Copy ```deploy/maintenance-cron.xml``` to  ```apache-servicemix-4.5.3/deploy``` folder. This file defines how often YSA and Allärs are updated from Finto. When you install the bundles for the first time, you need to modify hours and minutes (the default is 8.00 AM), and set them let's say two minutes ahead from current time. You're not able to use the RESTful service until the data is loaded from Finto. After the initial load you're free to choose when and how often the data is updated.
 
