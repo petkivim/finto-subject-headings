@@ -25,14 +25,14 @@ cd vocabulary
 mvn install
 ```
 
-* Start Apache ServiceMix.
+* Start Apache ServiceMix. See [quickstart](http://servicemix.apache.org/docs/5.x/quickstart/quickstart.pdf) guide.
 
 ```
 cd apache-servicemix-5.1.1/bin
 servicemix
 ```
 
-* Install marc-record and vocabulary OSGi bundles in the following order by using Karaf console.
+* Install marc-record and vocabulary OSGi bundles in the following order by using ServiceMix console.
 
 ```
 karaf@root> osgi:install -s mvn:com.pkrete/marc-record-model/0.0.1-SNAPSHOT
