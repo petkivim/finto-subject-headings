@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00741cam a2200265zi 4500</leader>
+  <controlfield tag="001">58034</controlfield>
+  <controlfield tag="005">20120402120429.0</controlfield>
+  <controlfield tag="008">880712suuuu    fi |||||||||||||||||fin||</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">951-30-6771-8 (sid.) :</subfield>
+    <subfield code="c">101 mk</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">fin</subfield>
+    <subfield code="h">swe</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">619</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Wikstr&#xF6;m, Birgitta.</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">&#xC4;r hunden sjuk?</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Onko koira sairas? /</subfield>
+    <subfield code="c">Birgitta Wikstr&#xF6;m ; [suom. Tuula Syv&#xE4;nper&#xE4;].</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2., t&#xE4;ysin uud. p.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Hki :</subfield>
+    <subfield code="b">Tammi,</subfield>
+    <subfield code="c">1988</subfield>
+    <subfield code="f">(Painokaari)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">161 s. :</subfield>
+    <subfield code="b">kuv. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei v&#xE4;litt&#xE4;v&#xE4;&#xE4; laitetta</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">T-kirjat</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">1. p. 1974</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koira</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">el&#xE4;intaudit</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Syv&#xE4;nper&#xE4;, Tuula.</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">T-kirjat</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01717cpc a22004457i 4500</leader>
+  <controlfield tag="001">710357</controlfield>
+  <controlfield tag="005">20120402212549.0</controlfield>
+  <controlfield tag="008">020823m18101999fi |||||r|||||||||||fin||</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">fpp2003016</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">fin</subfield>
+    <subfield code="a">swe</subfield>
+    <subfield code="a">mul</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">636</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Lemmikkiel&#xE4;imet :</subfield>
+    <subfield code="b">1810-1999.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">218 koteloa. - (1810-1944): 2 koteloa. - (1945-1972): 20 koteloa. - (1973-1999): 196 koteloa.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Useita sis&#xE4;lt&#xF6;tyyppej&#xE4;</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">useita mediatyyppej&#xE4;</subfield>
+  </datafield>
+  <datafield tag="520" ind1="2" ind2=" ">
+    <subfield code="a">Koirien kasvatusta ja hy&#xF6;tyk&#xE4;ytt&#xF6;&#xE4; koskevia kirjasia. Yhdistykset ja kerhot , esim.  Kansainv&#xE4;linen Koiranjalostus-Liitto. Kilpailut sek&#xE4; koirien ja kissojen valmentaminen kilpailuihin. Palvelukoirat. Mets&#xE4;styskoirat. Suomen rotukissayhdistyksen ja muutamien piirij&#xE4;rjest&#xF6;jen j&#xE4;rjest&#xE4;mien n&#xE4;yttelyiden esitteit&#xE4;. Akvaariokaloja ja -kasveja koskevia esitteit&#xE4;. Akvaarioseurojen s&#xE4;&#xE4;nt&#xF6;j&#xE4;, j&#xE4;senkirjoja ja n&#xE4;yttelyesitteit&#xE4;.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">lemmikkiel&#xE4;imet</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koira</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kissa</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariokalat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariokasvit</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariot</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">el&#xE4;inn&#xE4;yttelyt</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">n&#xE4;yttelyt</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">palveluskoirat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kilpailut</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">sotilaskoulutus</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">mets&#xE4;stys</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">ajokoirat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">suojeluskunnat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">partio</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kennelit</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kouluttajat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koulutus</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">j&#xE4;rjest&#xF6;toiminta</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kerhotoiminta</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">h&#xE4;kkilinnut</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen kennelliitto.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen kennelklubi.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen rotukissayhdistys.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00519cam a2200205zi 4500</leader>
+  <controlfield tag="001">592051</controlfield>
+  <controlfield tag="005">20120402193410.0</controlfield>
+  <controlfield tag="008">980403s1892    fi ||||jr|||||||||f|fin||</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">f416818</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">fin</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">894.541</subfield>
+    <subfield code="x">-3</subfield>
+    <subfield code="x">(024.7)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Kulmalan Santeri ja Jalo koira.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">4. p.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Turku :</subfield>
+    <subfield code="b">G. W. Wile&#x301;n,</subfield>
+    <subfield code="c">1892.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">15 s. ;</subfield>
+    <subfield code="c">16:o.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei v&#xE4;litt&#xE4;v&#xE4;&#xE4; laitetta</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Lasten kirjasto;</subfield>
+    <subfield code="v">17</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Lasten kirjasto;</subfield>
+    <subfield code="v">17</subfield>
+  </datafield>
+  <datafield tag="904" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00689cam a2200169zi 4500</leader>
+  <controlfield tag="001">591331</controlfield>
+  <controlfield tag="005">20120402193341.0</controlfield>
+  <controlfield tag="008">980327s1892    fi |||||||||||||||||fin||</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">f417002</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">fin</subfield>
+    <subfield code="h">und</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Gr&#xF6;ndahl, Karl Immanuel.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Kotiel&#xE4;inten l&#xE4;&#xE4;k&#xE4;ri :</subfield>
+    <subfield code="b">neuvoja, kuinka hevonen, nautael&#xE4;in, lammas, sika ja koira on kasvatettava, hoidettava ja ruokittava ja kuinka voidaan tuntea ja parantaa niiss&#xE4; ilmestyvi&#xE4; tavallisimpia tauteja : Rohlwes'in y. m. mukaan soviteltu /</subfield>
+    <subfield code="c">Karl Immanuel Gr&#xF6;ndahl. suom. A. Dahlberg.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Tampere :</subfield>
+    <subfield code="b">Olan,</subfield>
+    <subfield code="c">1892.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">232 s.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei v&#xE4;litt&#xE4;v&#xE4;&#xE4; laitetta</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Dahlberg, A.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01003nad a22002894i 4500</leader>
+  <controlfield tag="001">1018103</controlfield>
+  <controlfield tag="005">20130207142015.0</controlfield>
+  <controlfield tag="007">cr gn mmmmaabp</controlfield>
+  <controlfield tag="007">cr gn mmmmaada</controlfield>
+  <controlfield tag="008">121214s1899    fi |||||||||||||||||swe| </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">fd2012-pp00000234</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">URN:NBN:fi-fd2012-pp00000234</subfield>
+    <subfield code="2">urn</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">swe</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Reuter, O. M.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Tasso.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[S.l.] :</subfield>
+    <subfield code="b">[s.n.],</subfield>
+    <subfield code="c">1899.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">4 s. :</subfield>
+    <subfield code="c">14 x 22 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">elektroninen</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Digitaalinen j&#xE4;ljenne.</subfield>
+    <subfield code="b">Mikkeli :</subfield>
+    <subfield code="c">Kansalliskirjasto, Digitointi- ja konservointikeskus.</subfield>
+    <subfield code="d">20121214.</subfield>
+    <subfield code="f">(ephemera).</subfield>
+    <subfield code="n">J&#xE4;lkik&#xE4;sittely: minimi</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">el&#xE4;imet</subfield>
+    <subfield code="z">oikeudet</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">el&#xE4;insuojelu</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koira</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">kirjoitelmat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="7">nnpc</subfield>
+    <subfield code="i">Pienpainatekokoelma</subfield>
+    <subfield code="t">El&#xE4;insuojelu</subfield>
+    <subfield code="o">fdpp2011007</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2=" ">
+    <subfield code="i">Alkuper&#xE4;iskappale</subfield>
+    <subfield code="n">Sijainti: KANSALLISKOKOELMA, Signum: Pienpainatekokoelma VII</subfield>
+    <subfield code="o">1201014242</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://urn.fi/URN:NBN:fi-fd2012-pp00000234</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00330cam a22001213i 4500</leader>
+  <controlfield tag="001">430220</controlfield>
+  <controlfield tag="005">20120402173943.0</controlfield>
+  <controlfield tag="008">950620q1900uuuuxx |||||||||||||||||   ||</controlfield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Doyle, Arthur Conan,</subfield>
+    <subfield code="c">puuteluettelotieto.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Baskervillen koira.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei v&#xE4;litt&#xE4;v&#xE4;&#xE4; laitetta</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Kevytt&#xE4; lukemista, 46-53.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>00654cam a22001932i 4500</leader>
+  <controlfield tag="001">612860</controlfield>
+  <controlfield tag="005">20120402195530.0</controlfield>
+  <controlfield tag="008">981013s1900    fi |||||r|||||||||||fin||</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">f419537</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="041" ind1="1" ind2=" ">
+    <subfield code="a">fin</subfield>
+    <subfield code="h">swe</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Seyfferth, A.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Koira, sen rakenne ja sis&#xE4;elimet :</subfield>
+    <subfield code="b">havaannollinen esitys sanoin ja kuvin /</subfield>
+    <subfield code="c">A. Seyfferth ; suom. O. Kuusinen.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Porvoo :</subfield>
+    <subfield code="b">WSOY,</subfield>
+    <subfield code="c">1900.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">36 s. :</subfield>
+    <subfield code="b">kuv. ;</subfield>
+    <subfield code="c">4:o.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei v&#xE4;litt&#xE4;v&#xE4;&#xE4; laitetta</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">O. M. Reuter'in ruotsalaisesta muodostelusta suomennettu. - 72 palstaa ja 5 p&#xE4;&#xE4;lletysten laskettavaa kuvaa</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Kuusinen, O.</subfield>
+  </datafield>
+  <datafield tag="904" ind1=" " ind2=" ">
+    <subfield code="a">p</subfield>
+  </datafield>
+</record>
+</collection>

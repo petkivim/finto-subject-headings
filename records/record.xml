@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<record>
+  <leader>01717cpc a22004457i 4500</leader>
+  <controlfield tag="001">710357</controlfield>
+  <controlfield tag="005">20120402212549.0</controlfield>
+  <controlfield tag="008">020823m18101999fi |||||r|||||||||||fin||</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">fpp2003016</subfield>
+    <subfield code="2">skl</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">fin</subfield>
+    <subfield code="a">swe</subfield>
+    <subfield code="a">mul</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">636</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Lemmikkiel&#xE4;imet :</subfield>
+    <subfield code="b">1810-1999.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">218 koteloa. - (1810-1944): 2 koteloa. - (1945-1972): 20 koteloa. - (1973-1999): 196 koteloa.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Useita sis&#xE4;lt&#xF6;tyyppej&#xE4;</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">useita mediatyyppej&#xE4;</subfield>
+  </datafield>
+  <datafield tag="520" ind1="2" ind2=" ">
+    <subfield code="a">Koirien kasvatusta ja hy&#xF6;tyk&#xE4;ytt&#xF6;&#xE4; koskevia kirjasia. Yhdistykset ja kerhot , esim.  Kansainv&#xE4;linen Koiranjalostus-Liitto. Kilpailut sek&#xE4; koirien ja kissojen valmentaminen kilpailuihin. Palvelukoirat. Mets&#xE4;styskoirat. Suomen rotukissayhdistyksen ja muutamien piirij&#xE4;rjest&#xF6;jen j&#xE4;rjest&#xE4;mien n&#xE4;yttelyiden esitteit&#xE4;. Akvaariokaloja ja -kasveja koskevia esitteit&#xE4;. Akvaarioseurojen s&#xE4;&#xE4;nt&#xF6;j&#xE4;, j&#xE4;senkirjoja ja n&#xE4;yttelyesitteit&#xE4;.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">lemmikkiel&#xE4;imet</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koira</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kissa</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariokalat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariokasvit</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">akvaariot</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">el&#xE4;inn&#xE4;yttelyt</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">n&#xE4;yttelyt</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">palveluskoirat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kilpailut</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">sotilaskoulutus</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">mets&#xE4;stys</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">ajokoirat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">suojeluskunnat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">partio</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kennelit</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kouluttajat</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">koulutus</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">j&#xE4;rjest&#xF6;toiminta</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">kerhotoiminta</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">h&#xE4;kkilinnut</subfield>
+    <subfield code="2">ysa</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen kennelliitto.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen kennelklubi.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Suomen rotukissayhdistys.</subfield>
+  </datafield>
+</record>
