@@ -1,7 +1,9 @@
 Finto Subject Headings
 ======================
 
-This project contains a group of OSGi bundles that publish a RESTful service that consumes MarcXML records. The service checks all the 650 fields and adds the URI identifier of each subject heading into 650 $0 subfield if the subject heading can be found from Finto, Finnish thesaurus and ontology service. The code of the thesaurus is defined in the 650 $2 subfield. Supported thesauruses are YSA (General Finnish thesaurus) and Allärs (Allmän tesaurus på svenska). If the 650 $2 subfield is missing or the given subject heading is not found from Finto, the record is not modified.
+This project contains a group of OSGi bundles that publish a RESTful service that consumes and produces MarcXML records.
+
+The service checks all the 650 fields and adds the URI identifier of each subject heading into 650 $0 subfield if the subject heading can be found from Finto, Finnish thesaurus and ontology service. The code of the thesaurus is defined in the 650 $2 subfield. Supported thesauruses are YSA (General Finnish thesaurus) and Allärs (Allmän tesaurus på svenska). If the 650 $2 subfield is missing or the given subject heading is not found from Finto, the record is returned unchanged.
 
 ### Software Requirements
 
@@ -15,7 +17,7 @@ This project contains a group of OSGi bundles that publish a RESTful service tha
 * [Download](http://servicemix.apache.org/downloads.html) Apache ServiceMix and extract the dowloaded zip package.
   * Create a new ```datastore``` directory: ```apache-servicemix-5.1.1/datastore```
 
-* Compile marc-record and vocabulary OSGi bundles.
+* Compile marc-record and vocabulary OSGi bundles by using Maven.
 
 ```
 cd marc-record
@@ -65,6 +67,8 @@ karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 * After two minutes (or the time that you defined in ```deploy/maintenance-cron.xml```) check the ServiceMix log file ```apache-servicemix-5.1.1/data/log/servicemix.log``` and make sure that YSA and Allärs have been dowloaded from Finto. If the vocabularies have been downloaded succesfully, ```apache-servicemix-5.1.1/datastore``` folder should contain four files: ```ALLARS.datastore.ttl```, ```ALLARS.index.data```, ```YSA.datastore.ttl```, ```YSA.index.data```.
 
 ### Using the service
+
+The service consumes and produces MarcXML records.
 
 Single MarcXML record stored in [record.xml](records/record.xml) file.
 
