@@ -50,6 +50,12 @@ karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-maintenance/0.0.1-SNAPSHOT
 karaf@root> osgi:install -s mvn:com.pkrete/vocabulary-search/0.0.1-SNAPSHOT
 ```
 
+* Alternatively, it's possible to install the bundles by giving the absolute path of the compiled jar files.
+  
+```
+karaf@root> install file:/absolute/path/file.jar
+```
+
 * The list of available web services can now be accessed at [http://localhost:8181/cxf](http://localhost:8181/cxf). The WADL file of the vocabulary service can be accessed at [http://localhost:8181/cxf/vocabulary?_wadl](http://localhost:8181/cxf/vocabulary?_wadl). 
 
 * Stop ServiceMix. Hit 'ctrl-d' or 'osgi:shutdown' to shutdown ServiceMix.
